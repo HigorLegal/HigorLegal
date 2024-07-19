@@ -1,4 +1,4 @@
-## oi, eu sou o Higor da Silva 👋
+## oi, eu sou o HigorLegal 👋
 
 - 🪂 sou iniciante no mundo da programaçao 🪂
 - 💻 cursando TI na Ulbra 💻
