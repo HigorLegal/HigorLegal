@@ -3,7 +3,7 @@
 - 🪂 sou iniciante no mundo da programaçao 🪂
 - 💻 cursando TI na Ulbra 💻
 - 👨‍💻 atualmente estou procurando estagio em TI 👨‍💻
-- 📚 estou estudando html, css, javaScript 📚
+- 📚 estou estudando html, css, javaScript, mysql, hardware 📚
 
 ##
 
