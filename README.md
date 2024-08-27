@@ -20,7 +20,6 @@ Oi, atualmente estou cursando o ensino médio e também curso TI na Ulbra. Ainda
   <img align="center" alt="Higor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <!-- Badge MySql -->
 ![mySql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-## Tecnologias Utilizadas 
 </div>
   
   ##
