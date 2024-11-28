@@ -7,8 +7,10 @@
 
 ##
 
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorLegal&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorLegal&layout=compact&theme=dark)
+
 
   ## Oi eu sou a Higor da Silva, iniciante em programação!
   
