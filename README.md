@@ -11,11 +11,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=higorLegal&show_icons=true&theme=dark&include_all_commits=true&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HigorLegal&layout=compact&theme=dark)
 
-
-  ## Oi eu sou a Higor da Silva, iniciante em programação!
-  
-Oi, atualmente estou cursando o ensino médio e também curso TI na Ulbra. Ainda sou iniciante em programação, mas já aprendi bastante sobre diversas linguagens de programação. Estou sempre buscando aprender mais, pois programar é algo que eu me interesso muito.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
